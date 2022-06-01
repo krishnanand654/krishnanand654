@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+<p> I'm Krishnanand A, self-taught web developer</p>
 <img src="https://github-readme-stats.vercel.app/api?username=krishnanand654&show_icons=true&theme=gotham" alt="stat"/>
 
 <!--

@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<p> I'm Krishnanand A, self-taught web developer</p>
+## Hi there 👋  I'm Krishnanand A
+<p>self-taught web developer</p>
 <p> Started to learn coding in my 19s, I wish I had learned it earlier</p>
 
 

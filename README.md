@@ -57,7 +57,7 @@
       
 <br>
 <h3>Bagdes</h3>
-<p><a href="https://www.codewars.com/users/krishnanand654"><img src="https://www.codewars.com/users/krishnanand654/badges/small" alt="codewars"  width="40" height="40"/> </a></p>
+<p><a href="https://www.codewars.com/users/krishnanand654"><img src="https://www.codewars.com/users/krishnanand654/badges/small" alt="codewars" /> </a></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=krishnanand654&show_icons=true&theme=gotham" alt="stat"/>
 

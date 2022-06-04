@@ -32,7 +32,9 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
       alt="react" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
-      alt="react" width="40" height="40" /> </a>  </p>
+      alt="react" width="40" height="40" /> </a> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+           </p>
       
 <br>
 

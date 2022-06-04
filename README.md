@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 <p> I'm Krishnanand A, self-taught web developer</p>
-<br>
-<p> Started to learn coding in my 19s, wish I would learn early</p>
-<br>
-<p>Free Advice : Learn to code now</p>
+<p> Started to learn coding in my 19s, I wish I had learned it earlier</p>
 
 
 <h3 align="left">Currently Focused On:</h3>

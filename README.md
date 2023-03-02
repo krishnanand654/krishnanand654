@@ -61,6 +61,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=krishnanand654&show_icons=true&theme=gotham&title_color=A200FF&text_color=F8EBFF&icon_color=B22BFF" alt="stat"/>
 
-[![My Contribution Graph](https://activity-graph.herokuapp.com/graph?username=krishnanand654&custom_title=My%20Contribution%20Graph&theme=gotham&bg_color=170023&color=A200FF&hide_border=true&line=7300B4&point=BB45FF)](https://github.com/krishnanand654)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnanand654&bg_color=000000&color=636363&line=00664d&point=757070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 

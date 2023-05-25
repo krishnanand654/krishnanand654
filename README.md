@@ -21,7 +21,8 @@
      
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+
+<p align="left"> <tr><td> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -37,22 +38,26 @@
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      alt="javascript" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="40" height="40" /></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img
+      src="https://www.php.net/images/logos/new-php-logo.svg"
+      alt="php" width="40" height="40" /> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
+      src="https://www.simplior.com/wp-content/uploads/2022/05/nodejs-white-web-story.png"
+      alt="nodejs" width="60" height="40" /> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
       alt="react" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-      alt="react" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> 
+      alt="git" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
-      alt="react" width="40" height="40" /> </a> 
-          <a href="#" target="_blank" rel="noreferrer"> 
+      alt="figma" width="40" height="40" /> </a> 
+          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-      alt="react" width="40" height="40" /> </a> 
+      alt="docker" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
+      alt="Django" width="70" height="70" /> </a>
            </p>
       
 <h3>Bagdes</h3>

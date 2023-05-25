@@ -48,7 +48,9 @@
       src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
-      alt="react" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> <img
+      alt="react" width="40" height="40" /> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+      src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png"
+      alt="firebase" width="auto" height="50" /> </a> <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
       alt="git" width="40" height="40" /> </a> <a href="#" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 

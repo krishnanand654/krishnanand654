@@ -66,7 +66,7 @@
 <p><a href="https://www.codewars.com/users/krishnanand654"><img src="https://www.codewars.com/users/krishnanand654/badges/small" alt="codewars" /> </a></p>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishnanand654&show_icons=true&theme=gotham&title_color=A200FF&text_color=F8EBFF&icon_color=B22BFF" alt="stat"/>
+![](https://raw.githubusercontent.com/krishnanand654/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=krishnanand654&bg_color=000000&color=636363&line=00664d&point=757070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

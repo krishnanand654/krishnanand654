@@ -1,8 +1,10 @@
-## Hi there 👋  I'm Krishnanand A
+
+# Hi there 👋  I'm Krishnanand A
+
+
+<!-- ## Focus on the Pattern Not on Syntax -->
+<!-- <img align="right" alt="GIF" width="auto" height="200" src="https://i.pinimg.com/originals/89/73/85/89738558f880c3daf3317397bc0a1fac.gif" /> -->
 <p>Self-taught web developer</p>
-
-
-
 <h3 align="left">Currently Focused On:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img

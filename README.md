@@ -1,10 +1,13 @@
 
-# Hi there 👋  I'm Krishnanand A
+<!-- # Hi there 👋  I'm Krishnanand A -->
 
 
-<!-- ## Focus on the Pattern Not on Syntax -->
-<!-- <img align="right" alt="GIF" width="auto" height="200" src="https://i.pinimg.com/originals/89/73/85/89738558f880c3daf3317397bc0a1fac.gif" /> -->
-<p>Self-taught web developer</p>
+
+<img align="right" alt="GIF" width="auto" height="200" src="https://i.pinimg.com/originals/89/73/85/89738558f880c3daf3317397bc0a1fac.gif" />
+<h1> Focus on the Pattern 
+    <br>Not on Syntax </h1>
+    <p>At some point you will get to know that the patterns are same <br>and its the syntax that changes according to languages</p>
+
 <h3 align="left">Currently Focused On:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
@@ -69,3 +72,4 @@
 <br>
 
 
+<p>~<em><b> Krishnanand A </b><em></p>

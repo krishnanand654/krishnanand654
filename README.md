@@ -13,9 +13,14 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png"
+      alt="react" width="40" height="40" /> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/800px-Tailwind_CSS_Logo.svg.png"
       alt="html5" width="40" height="30" /> </a>
+
+      
      
      
 

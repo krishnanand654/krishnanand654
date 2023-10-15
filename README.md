@@ -21,7 +21,7 @@
       alt="html5" width="40" height="30" /> </a>
        <a href="" target="_blank" rel="noreferrer"> <img
       src="https://developer.android.com/static/studio/images/new-studio-logo-1.png"
-      alt="react" width="40" height="40" /> </a>
+      alt="android" width="40" height="40" /> </a>
 
       
      

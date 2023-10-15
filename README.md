@@ -3,8 +3,8 @@
 
 
 
-<img align="right" alt="GIF" width="1000" height="300" src="https://i.pinimg.com/originals/89/73/85/89738558f880c3daf3317397bc0a1fac.gif" />
-
+<img align="right" alt="GIF" width="100%" height="300" src="https://i.pinimg.com/originals/89/73/85/89738558f880c3daf3317397bc0a1fac.gif"  />
+ 
 <h1> Focus on the Pattern 
     <br>Not on Syntax </h1>
     <p>At some point you will get to know that the patterns are same <br>and its the syntax that changes according to languages</p>

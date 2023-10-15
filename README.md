@@ -20,8 +20,8 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/800px-Tailwind_CSS_Logo.svg.png"
       alt="html5" width="40" height="30" /> </a>
        <a href="" target="_blank" rel="noreferrer"> <img
-      src="https://developer.android.com/static/images/cluster-illustrations/new-android-studio.svg"
-      alt="android" width="50" height="50" /> </a>
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png"
+      alt="android" width="40" height="40" /> </a>
 
       
      

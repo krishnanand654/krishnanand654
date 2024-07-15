@@ -67,7 +67,7 @@
       alt="Django" width="70" height="70" /> </a>
            </p>
       
-<h3>Bagdes</h3>
+<h3>Badges</h3>
 <p><a href="https://www.codewars.com/users/krishnanand654"><img src="https://www.codewars.com/users/krishnanand654/badges/small" alt="codewars" /> </a></p>
 <br>
 

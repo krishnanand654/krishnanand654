@@ -15,11 +15,19 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
       <a href="" target="_blank" rel="noreferrer"> <img
-      src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png"
-      alt="react" width="40" height="40" /> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img
-      src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png"
       alt="html5" width="40" height="40" /> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png"
+      alt="html5" width="80" height="40" /> </a>
+       <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png"
+      alt="react" width="70" height="50" /> </a>
+        <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://companieslogo.com/img/orig/databricks-c40eaf44.png?t=1720244494"
+      alt="react" width="40" height="40" /> </a>
+
+   
      
       
      
@@ -62,9 +70,18 @@
       alt="figma" width="40" height="40" /> </a> 
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-      alt="docker" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+      alt="docker" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> </a><a>
             <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
       alt="Django" width="70" height="70" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://www.pngkey.com/png/detail/98-985032_flask-logo-flask-python-icon.png"
+      alt="react" width="40" height="40" /> </a>
+ <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png"
+      alt="react" width="40" height="40" /> </a>
+       <a href="" target="_blank" rel="noreferrer"> <img
+      src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png"
+      alt="react" width="70" height="50" /> </a>
            </p>
 
  <h3 align="left">Cloud: </h3>

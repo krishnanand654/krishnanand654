@@ -66,7 +66,14 @@
             <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
       alt="Django" width="70" height="70" /> </a>
            </p>
-      
+
+ <h3 align="left">Cloud: </h3>
+ 
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png"
+      alt="Azure" width="50" height="50" /> </a>
+           </p>
+ 
 <h3>Badges</h3>
 <p><a href="https://www.codewars.com/users/krishnanand654"><img src="https://www.codewars.com/users/krishnanand654/badges/small" alt="codewars" /> </a></p>
 <br>
